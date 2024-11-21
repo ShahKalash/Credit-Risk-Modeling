@@ -29,4 +29,4 @@ This project implements a **Bayesian Network model** for credit risk assessment,
 This model extends existing approaches by:  
 - Increasing model accuracy to 95.53% through advanced structure learning.  
 - Enhancing interpretability and scalability for large datasets.  
-![Bayesian_Network](https://github.com/user-attachments/assets/e9bb0b26-0f60-4b07-822c-27922f07393d)
+  
